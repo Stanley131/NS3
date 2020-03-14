@@ -2,6 +2,7 @@
 
 ### What is NS3?
   - A great modulized network simulation tool. 
+  - Follow documnetation to build network simulation modules. 
   
 This is ns-3-allinone.
 
